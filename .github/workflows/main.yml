@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: SihacNy/hello-world-javascript-action@main
+        uses: SihacNy/hello-world-javascript-action@v1.0
         with:
           who-to-greet: SihacNy
 
